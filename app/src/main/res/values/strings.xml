@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ejemploIntents</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="predicciones">
+        <item>Vas a morir hoy</item>
+        <item>Te vas a ganar un millon de dolares</item>
+    </string-array>
+</resources>
