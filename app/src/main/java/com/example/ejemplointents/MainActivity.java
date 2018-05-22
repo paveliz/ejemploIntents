@@ -19,6 +19,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 
 	}
+
+	//hola mundo git
 	
 	public void CallIntentCompartir(View v) {
 	    Intent share = new Intent(Intent.ACTION_SEND);
